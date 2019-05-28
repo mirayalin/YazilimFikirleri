@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\bin\Debug\TOOLS.dll
+C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\bin\Debug\TOOLS.pdb
+C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\obj\Debug\TOOLS.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\obj\Debug\TOOLS.dll
+C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\obj\Debug\TOOLS.pdb
