@@ -3,3 +3,9 @@ C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\bin\Debu
 C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\obj\Debug\TOOLS.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\obj\Debug\TOOLS.dll
 C:\Users\asus\Desktop\Yazılım_Fikirleri\YazilimFikirleri-master\TOOLS\obj\Debug\TOOLS.pdb
+D:\YazilimFikirleri\yazilimfikirleri\TOOLS\bin\Debug\TOOLS.dll
+D:\YazilimFikirleri\yazilimfikirleri\TOOLS\bin\Debug\TOOLS.pdb
+D:\YazilimFikirleri\yazilimfikirleri\TOOLS\obj\Debug\TOOLS.csprojAssemblyReference.cache
+D:\YazilimFikirleri\yazilimfikirleri\TOOLS\obj\Debug\TOOLS.csproj.CoreCompileInputs.cache
+D:\YazilimFikirleri\yazilimfikirleri\TOOLS\obj\Debug\TOOLS.dll
+D:\YazilimFikirleri\yazilimfikirleri\TOOLS\obj\Debug\TOOLS.pdb

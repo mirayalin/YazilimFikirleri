@@ -75,3 +75,6 @@ C:\Users\asus\Desktop\Yaz-fik-deneme\YazilimFikirleri-master\DAL\obj\Debug\DAL.c
 C:\Users\asus\Desktop\Yaz-fik-deneme\YazilimFikirleri-master\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\asus\Desktop\Yaz-fik-deneme\YazilimFikirleri-master\DAL\obj\Debug\DAL.dll
 C:\Users\asus\Desktop\Yaz-fik-deneme\YazilimFikirleri-master\DAL\obj\Debug\DAL.pdb
+D:\YazilimFikirleri\yazilimfikirleri\DAL\bin\Debug\Bogus.dll
+D:\YazilimFikirleri\yazilimfikirleri\DAL\bin\Debug\Bogus.pdb
+D:\YazilimFikirleri\yazilimfikirleri\DAL\bin\Debug\Bogus.xml
