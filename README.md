@@ -4,3 +4,11 @@ Yazılım teknolojilerinde hızlı gelişmelerin olduğu bir dönemden geçiyoru
 # .Net MVC Projesi
 
 
+# Katmanlar
+  -MODEL
+  -DAL
+  -MAP
+  -BLL
+  -TOOLS
+  -WEBUI
+
